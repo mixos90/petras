@@ -193,6 +193,40 @@
         </div><!--col-md-12 FINISH-->
     </div><!--container FINISH-->
     
+    <div id="advantages"><!--advantages BEGIN-->
+        
+        <div class="container"><!--container BEGIN-->
+            
+       <div class="same-height-row"><!--same-height-row BEGIN-->
+           
+          <div class="col-sn-4"><!--col-sn-4 BEGIN-->
+              
+          <div class="box same-height"><!--box same-height BEGIN-->
+              
+              <div class="icon"><!--icon BEGIN-->
+                  
+              <i class="fa fa-hearth"><!--fa fa-hearth BEGIN-->
+                  
+                  
+                  
+              </i>  <!--fa fa-hearth FINISH-->  
+                  
+                  
+              </div><!--icon FINISH-->
+              
+              <h3><a href="#">We Love Our Customer</a></h3>
+              <p>We know how to provide the best posible service ever</p>
+              
+          </div>    <!--box same-height FINISH-->
+              
+          </div> <!--col-sn-4 FINISH-->
+           
+       </div><!--same-height-row FINISH-->
+               
+        </div><!--container FINISH-->
+        
+    </div><!--advantages FINISH-->
+    
     <script src="js/jquery-331.min.js"></script>
     <script src="js/bootstrap-337.min.js"></script>
     
